@@ -1,2 +1,5 @@
 # Airport-DB
- Prototype airport system db
+ Prototype airport system db  
+БД_аэропорта.db - Макет базы данных аэропорта  
+заполнение_бд.ipynb - скрипт заполнения  
+zaprosy_v_bd.sql - запросы в БД (Они придуманы с включением небольшого количества юмора :-) )
